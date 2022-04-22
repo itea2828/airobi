@@ -1,0 +1,22 @@
+.active > li{
+    background-color: #2f84eb !important;
+}
+.productImgRounded {
+    width: 40px;
+    height: 40px;
+}
+
+.blueIcon{
+  color:rgb(10, 53, 139)
+}
+
+.mButton {
+  width: 100%;
+  border: none;
+}
+
+.mmm img {
+    width: 220px !important;
+    background: white;
+    padding: 60px;
+}
